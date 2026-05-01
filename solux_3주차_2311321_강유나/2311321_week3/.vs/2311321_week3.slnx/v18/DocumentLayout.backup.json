@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\homepage\\homepage.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\pages\\homepage\\homepage.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\musiccard\\musiccard.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\components\\musiccard\\musiccard.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\musiccard\\musiccard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\components\\musiccard\\musiccard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\homepage\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\pages\\homepage\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\librarypage\\librarypage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\pages\\librarypage\\librarypage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\songrow\\songrow.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\components\\songrow\\songrow.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\sidebar\\sidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\components\\sidebar\\sidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\explorepage\\explorepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\pages\\explorepage\\explorepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\player\\player.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\components\\player\\player.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\header\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\components\\header\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11AE72A3-EAE0-2FAB-DA12-86BF877A8EA7}|2311321_week3.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T11:52:36.14Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicCard.module.css",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\MusicCard\\MusicCard.module.css",
+              "RelativeDocumentMoniker": "src\\components\\MusicCard\\MusicCard.module.css",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\MusicCard\\MusicCard.module.css",
+              "RelativeToolTip": "src\\components\\MusicCard\\MusicCard.module.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-08T13:13:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.module.css",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\HomePage\\HomePage.module.css",
+              "RelativeDocumentMoniker": "src\\pages\\HomePage\\HomePage.module.css",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\HomePage\\HomePage.module.css",
+              "RelativeToolTip": "src\\pages\\HomePage\\HomePage.module.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvycAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-08T13:12:30.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicCard.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\MusicCard\\MusicCard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\MusicCard\\MusicCard.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\MusicCard\\MusicCard.jsx",
+              "RelativeToolTip": "src\\components\\MusicCard\\MusicCard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T13:50:52.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\HomePage\\HomePage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\HomePage\\HomePage.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\HomePage\\HomePage.jsx",
+              "RelativeToolTip": "src\\pages\\HomePage\\HomePage.jsx",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvyEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T12:31:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryPage.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\LibraryPage\\LibraryPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\LibraryPage\\LibraryPage.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\LibraryPage\\LibraryPage.jsx",
+              "RelativeToolTip": "src\\pages\\LibraryPage\\LibraryPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T13:17:19.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SongRow.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\SongRow\\SongRow.jsx",
+              "RelativeDocumentMoniker": "src\\components\\SongRow\\SongRow.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\SongRow\\SongRow.jsx",
+              "RelativeToolTip": "src\\components\\SongRow\\SongRow.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T13:31:53.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sidebar.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\Sidebar\\Sidebar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Sidebar\\Sidebar.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\Sidebar\\Sidebar.jsx",
+              "RelativeToolTip": "src\\components\\Sidebar\\Sidebar.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T12:33:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExplorePage.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\ExplorePage\\ExplorePage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\ExplorePage\\ExplorePage.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\pages\\ExplorePage\\ExplorePage.jsx",
+              "RelativeToolTip": "src\\pages\\ExplorePage\\ExplorePage.jsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T13:13:30.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\Player\\Player.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Player\\Player.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\Player\\Player.jsx",
+              "RelativeToolTip": "src\\components\\Player\\Player.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T13:13:15.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\Header\\Header.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Header\\Header.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2311321_week3\\src\\components\\Header\\Header.jsx",
+              "RelativeToolTip": "src\\components\\Header\\Header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-08T12:35:33.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

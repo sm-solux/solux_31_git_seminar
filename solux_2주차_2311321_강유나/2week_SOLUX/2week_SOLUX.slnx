@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="2week_solux.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

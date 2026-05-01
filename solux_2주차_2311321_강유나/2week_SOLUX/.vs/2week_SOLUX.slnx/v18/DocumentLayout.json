@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\contacttab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\contacttab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\contacttab.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\contacttab.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\portfolio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\portfolio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\abouttab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\abouttab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\abouttab.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\abouttab.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\infotab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\infotab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\infotab.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\infotab.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\projectstab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\projectstab.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|e:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_solux\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69D1812F-086D-E732-328A-3D32676107B3}|2week_solux.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactTab.module.css",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\ContactTab.module.css",
+              "RelativeDocumentMoniker": "src\\ContactTab.module.css",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\ContactTab.module.css",
+              "RelativeToolTip": "src\\ContactTab.module.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-02T14:41:42.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Portfolio.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\Portfolio.jsx",
+              "RelativeDocumentMoniker": "src\\Portfolio.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\Portfolio.jsx",
+              "RelativeToolTip": "src\\Portfolio.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-01T14:09:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutTab.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\AboutTab.jsx",
+              "RelativeDocumentMoniker": "src\\AboutTab.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\AboutTab.jsx",
+              "RelativeToolTip": "src\\AboutTab.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-02T11:15:49.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactTab.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\ContactTab.jsx",
+              "RelativeDocumentMoniker": "src\\ContactTab.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\ContactTab.jsx",
+              "RelativeToolTip": "src\\ContactTab.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-02T11:30:01.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoTab.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\InfoTab.jsx",
+              "RelativeDocumentMoniker": "src\\InfoTab.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\InfoTab.jsx",
+              "RelativeToolTip": "src\\InfoTab.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-01T14:09:37.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutTab.module.css",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\AboutTab.module.css",
+              "RelativeDocumentMoniker": "src\\AboutTab.module.css",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\AboutTab.module.css",
+              "RelativeToolTip": "src\\AboutTab.module.css",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-02T11:38:12.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InfoTab.module.css",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\InfoTab.module.css",
+              "RelativeDocumentMoniker": "src\\InfoTab.module.css",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\InfoTab.module.css",
+              "RelativeToolTip": "src\\InfoTab.module.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-02T11:41:26.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-01T14:10:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectsTab.jsx",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\ProjectsTab.jsx",
+              "RelativeDocumentMoniker": "src\\ProjectsTab.jsx",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\ProjectsTab.jsx",
+              "RelativeToolTip": "src\\ProjectsTab.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-02T11:38:53.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "E:\\\uC194\uB8E9\uC2A4 \uC2A4\uD130\uB514\\2week_SOLUX\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-01T14:02:39.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
