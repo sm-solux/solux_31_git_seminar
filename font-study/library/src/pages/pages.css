@@ -1,0 +1,190 @@
+/*Main 페이지 스타일*/
+.background {
+    height: 299px;
+    background-color: #F4F9FC;
+}
+
+.background img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.best-section {
+    width: 1200px;
+    margin: 40px auto;
+}
+
+.best-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.best-header button {
+    background: none;
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.best-header button:active {
+    background-color: #eee;
+}
+
+.best-content {
+    display: flex;
+    gap: 0px;
+}
+
+.best-main-book {
+    width: 300px;
+    border: 1px solid #aaa;
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+}
+
+.best-main-book img {
+    width: 100%;
+}
+
+.book-tag {
+    font-size: 12px;
+    color: #4a90e2;
+    margin-top: 8px;
+}
+
+.best-list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 15px;
+    flex: 1;
+    border: 1px solid #bbb;
+    padding: 40px 80px;
+}
+
+.book-card {
+    position: relative;
+}
+
+.book-card img {
+    width: 120px;
+    height: 180px;
+    flex-shrink: 0;
+}
+
+.rank {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background: black;
+    color: white;
+    font-size: 12px;
+    padding: 2px 6px;
+}
+
+.title {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.author {
+    font-size: 14px;
+    color: #333;
+}
+
+.new-section {
+    width: 1200px;
+    margin: 40px auto;
+}
+
+.new-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.new-header button {
+    background: none;
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.new-header button:active {
+    background-color: #eee;
+}
+
+.new-book {
+    display: flex;
+    gap: 45px;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.new-book::-webkit-scrollbar {
+    display: none;
+}
+
+.nav-left {
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+.nav-right {
+    padding: 5px 10px;
+    float: right;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+
+/*Category 페이지 스타일*/
+.nav {
+    position: relative;
+    border-bottom: 1px solid #ddd;
+}
+
+.nav-inner {
+    display: flex;
+    gap: 20px;
+    padding: 12px 20px;
+}
+
+.mega-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    border-top: 1px solid #ddd;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    padding: 20px 40px;
+    z-index: 1000;
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-left: 360px;
+}
+
+.menu-grid ul {
+    padding: 0;
+}
+
+.menu-grid li {
+    font-size: 13px;
+    color: #555;
+    margin-bottom: 8px;
+    cursor: pointer;
+}

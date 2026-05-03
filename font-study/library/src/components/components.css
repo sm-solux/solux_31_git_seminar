@@ -1,0 +1,132 @@
+/* Header 스타일 */
+.header {
+    border-bottom: 1px solid #eee;
+    background-color: #fff;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: flex-end;
+    height: 35px;
+    gap: 25px;
+    padding: 7px 370px;
+    font-size: 13px;
+    color: #666;
+    background: #f8f8f8;
+    border-bottom: 1px solid #aaa;
+}
+
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    border: 2px solid;
+    margin: 20px;
+}
+
+.user-menu {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    color:#555;
+}
+.user-select {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.nav {
+    border-bottom: 3px solid black;
+    padding: 0px 340px;
+}
+
+.nav-inner {
+    display: flex;
+    gap: 80px;
+    align-items: center;
+}
+
+.nav-button {
+    background: none;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+
+/* Quick Menu 스타일 */
+.quick-menu {
+    position: fixed;
+    right: 20px;
+    top: 300px;
+    width: 82px;
+    background-color: #fff;
+    border: 1px solid #aaa;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+}
+
+.menu-item {
+    width: 82px;
+    height: 82px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+}
+
+.menu-icon {
+    font-size: 30px;
+    color: #333;
+}
+
+.menu-label {
+    font-size: 13px;
+    color: #333;
+}
+
+.arrow-container {
+    display: flex;
+    height: 23px;
+    border-top: 1px solid #eee;
+}
+
+.arrow-button {
+    flex: 1;
+    padding: 10px 0;
+    border: none;
+    border-right: 1px solid #eee;
+    font-size: 20px;
+    color: #666;
+    background: #f8f8f8;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.arrow-button:hover {
+    background-color: #eee;
+}

@@ -1,0 +1,159 @@
+/*Info Card*/
+.info-card {
+    width: 700px;
+    display: flex;
+    align-items: top;
+    background-color: #fff;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.info-icon-wrapper {
+    width: 50px;
+    height: 50px;
+    background-color: #3861BB;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+    color: #fff;
+    font-size: 25px;
+}
+
+.info-text h3 {
+    margin: 0;
+    font-size: 20px;
+    color: #444;
+}
+
+.info-text p {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #555;
+}
+
+.info-text a{
+    text-decoration: none;
+    color: #555;
+}
+
+.info-text span {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #555;
+    white-space: pre-wrap;
+}
+
+
+/*Skill Card*/
+.skill-card {
+    width: 700px;
+    min-height: 80px;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    padding: 20px;
+    gap: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.skill-info span:first-child {
+    font-weight: bold;
+    font-size: 16px;
+    display: block;
+}
+
+.progress-bar-bg {
+    width: 100%;
+    height: 15px;
+    background-color: #eee;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    border-radius: 10px;
+    transition: width 0.5s ease-in-out;
+}
+
+
+
+/*홈 페이지*/
+.gm {
+    padding: 20px;
+    width: 700px;
+}
+
+.gm-box {
+    display: flex;
+    text-align: center;
+    gap: 50px;
+}
+
+.box {
+    background-color: #3861bb5b;
+    width: 80px;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    border-radius: 15px;
+    font-weight: 500;
+}
+
+.box p {
+    font-size: 13px;
+}
+
+.box span {
+    font-size: 13px;
+}
+
+.b2 {
+    display: flex;
+    gap:85px
+}
+
+.box2 {
+    display: flex;
+    padding: 30px 20px;
+    width: 150px;
+}
+
+.keyword button {
+    background-color: #3861bb5b;
+    border:none;
+    padding: 20px;
+    width: 150px;
+    border-radius: 40px;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.keyword button:active {
+    transform: scale(0.95);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.01);
+}
+
+
+
+/*연락 페이지. 활동 페이지*/
+.page-container h2{
+    color: #fff;
+}
+
+.contact-project-box {
+    padding-top:20px;
+    padding-left: 20px;
+    margin-bottom: 40px;
+}
+
+.learn-box {
+    padding: 20px;
+}
