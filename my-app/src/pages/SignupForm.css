@@ -1,0 +1,80 @@
+.radio-group {
+  display: flex;
+  gap: 8px;
+}
+
+.radio-label {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  cursor: pointer;
+  padding: 9px 16px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+  color: #888;
+  font-size: 14px;
+  transition: all 0.15s;
+  user-select: none;
+}
+
+.radio-label input { display: none; }
+
+.radio-label.selected {
+  border-color: #222;
+  background: #f5f5f5;
+  color: #222;
+}
+
+.radio-dot {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  transition: all 0.15s;
+}
+
+.radio-label.selected .radio-dot {
+  border-color: #222;
+  background: #222;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  color: #666;
+  font-size: 13px;
+  user-select: none;
+}
+
+.checkbox-label input { display: none; }
+
+.checkbox-box {
+  width: 17px;
+  height: 17px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all 0.15s;
+}
+
+.checkbox-label.checked .checkbox-box {
+  background: #222;
+  border-color: #222;
+}
+
+.checkbox-label.checked { color: #222; }
+
+.checkmark {
+  color: #fff;
+  font-size: 11px;
+  display: none;
+}
+
+.checkbox-label.checked .checkmark { display: block; }
